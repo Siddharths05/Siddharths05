@@ -9,4 +9,4 @@ infrastructure, and automation.
 Python • Networking • AWS • Linux • Docker
 QRadar • Splunk • Wireshark • Scapy
 
-[![GitHub Commits Badge](https://ghcommits.com/api/badge/Siddharths05.svg)](https://ghcommits.com)
+
